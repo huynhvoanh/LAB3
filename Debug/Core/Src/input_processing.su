@@ -1,0 +1,6 @@
+input_processing.c:9:6:fsm_for_input_processing	16	static
+input_processing.c:23:9:get_current_mode	4	static
+input_processing.c:36:6:processDurationButtons	16	static
+input_processing.c:102:9:get_red_edit_value	4	static
+input_processing.c:107:9:get_amber_edit_value	4	static
+input_processing.c:112:9:get_green_edit_value	4	static
